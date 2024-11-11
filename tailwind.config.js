@@ -12,7 +12,7 @@ export default {
         "3xl": "1930px",
       },
       backgroundImage: {
-        header: "url('images/sustainability/SPT-banner-2000x500px-278.jpg')",
+        header: "url('/images/sustainability/SPT-banner-2000x500px-278.jpg')",
       },
       colors: {
         "kpmg-blue": "#00338D",
